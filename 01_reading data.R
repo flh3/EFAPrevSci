@@ -21,7 +21,7 @@ library(descr) #for frequencies, crosstabs
 
 ## download dataset from here: http://faculty.missouri.edu/huangf/data/prevsci/literacy250.csv
 
-#dat1 <- import("http://faculty.missouri.edu/huangf/data/prevsci/literacy250.csv")
+#dat1 <- import("http://github.com/flh3/EFAPrevSci/literacy250.csv")
 dat1 <- import('C:/Users/huangf/Box Sync/Projects/efaprevsci/EFAPrevSci/literacy250.csv')
 
 ## the import() function is in the rio package. makes importing files easier
