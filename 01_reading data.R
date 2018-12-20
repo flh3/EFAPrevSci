@@ -28,7 +28,7 @@ library(descr) #for frequencies, crosstabs
 ## the import() function is in the rio package. makes importing files easier
 ## only need to know one function which is import()
 
-dat1 <- import('C:/Users/huangf/Box Sync/Projects/efaprevsci/EFAPrevSci/data/literacy250.csv')
+dat1 <- import('http://faculty.missouri.edu/huangf/data/prevsci/literacy250.csv')
 
 ## doesn't the file already have a filename? Yes, but we can give 
 ## the data it's own data object (in this case, dat1)
