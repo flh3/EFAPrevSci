@@ -10,6 +10,7 @@
 library(rio) #for importing
 library(dplyr) #for select, mutate, filter, arrange, group_by
 library(descr) #for frequencies, crosstabs
+library(tidylog)
 
 #### Read and inspect dataset / dataframe
 
