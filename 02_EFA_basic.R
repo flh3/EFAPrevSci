@@ -15,7 +15,7 @@ library(psych)
 
 ## 1 Read in and examine dataset (noting variable names)
 ## I am doing this so you get practice loading in your own data!
-dat2 <- import("C:/Users/huangf/Dropbox/Stat4/FH_MU/2018/05_EFA/homework/bioalgebra.sav")
+dat2 <- import("data/bioalgebra.sav")
 head(dat2)
 summary(dat2)
 names(dat2)
